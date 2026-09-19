@@ -1,0 +1,10 @@
+path: /home/vu/Vitis-AI/project/bia_zcu104_yolov8/dataset
+
+train: train/images
+val: valid/images
+test: test/images
+
+nc: 2
+names:
+  0: bullet
+  1: target
